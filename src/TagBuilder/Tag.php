@@ -1,6 +1,6 @@
 <?php
 
-namespace Builder;
+namespace TagBuilder;
 
 //Copyright (c) 2010 Ethan Blackwelder, http://www.eblackwelder.com/
 //
