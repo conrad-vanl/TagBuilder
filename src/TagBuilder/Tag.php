@@ -51,7 +51,7 @@ function Tag($var_args = '') {
  * @todo : more ways to add/append HTML?
  * @todo : add a toJSON method (that can handle complex data for the innerHtml)
  */
-class Tag implements ArrayAccess {
+class Tag implements \ArrayAccess {
 	private static $self_closing_tags = array('area', 'base', 'basefont', 'br', 'col', 'frame', 'hr', 'input', 'img', 'link', 'meta', 'param');
 	private $name;
 	private $innerHtml;
