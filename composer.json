@@ -1,0 +1,12 @@
+{
+    "name": "eblackwelder/tagbuilder",
+    "authors": [
+        {
+            "name": "Ethan Blackwelder",
+            "website": "http://www.eblackwelder.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "TagBuilder": "src/" }
+    }
+}
